@@ -1,0 +1,24 @@
+{
+  "name": "@goodbetterbist/input-validators",
+  "version": "0.0.5",
+  "author": "Aakash Bist",
+  "description": "InputNumberValidator prevents users from entering values based on input field attributes.",
+  "keywords": [
+    "angular",
+    "directive",
+    "input number",
+    "number",
+    "input",
+    "number only"
+  ],
+  "peerDependencies": {
+    "@angular/common": "^15.0.0",
+    "@angular/core": "^15.0.0"
+  },
+  "dependencies": {
+    "tslib": "^2.3.0"
+  },
+  "publishConfig": {
+    "@goodbetterbist/input-validators:registry": "https://npm.pkg.github.com"
+  }
+}
